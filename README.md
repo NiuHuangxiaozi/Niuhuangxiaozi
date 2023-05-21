@@ -1,7 +1,13 @@
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=young-cloud-creator&count_private=true&show_icons=true&theme=vue&hide=prs,issues)
+](https://github.com/young-cloud-creator?tab=repositories)
+
 ### Hi there 👋
 
+- :mailbox_with_no_mail:Email:1280773543@qq.com
+- :books:Blog: [Niu Creator's Blog](https://niuhuangxiaozi.github.io/)
+
 <!--
-**NiuHuangxiaozi/Niuhuangxiaozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Niuhuangxiaozi/Niuhuangxiaozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

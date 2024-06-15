@@ -4,7 +4,7 @@
 
 - :mailbox_with_no_mail:Email:niuniuzi2023@gmail.com
 - :books:Blog: [Niu Creator's Blog](https://niuhuangxiaozi.github.io/)
-- :bilibili: https://space.bilibili.com/691242122?spm_id_from=333.788.0.0
+- : 🐯 bilibili: https://space.bilibili.com/691242122?spm_id_from=333.788.0.0
 
 <!--
 **Niuhuangxiaozi/Niuhuangxiaozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

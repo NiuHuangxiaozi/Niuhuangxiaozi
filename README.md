@@ -1,5 +1,7 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Niuhuangxiaozi&count_private=true&show_icons=true&theme=vue&hide=prs,issues)](https://niuhuangxiaozi.github.io/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niuhuangxiaozi)](https://niuhuangxiaozi.github.io/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Niuhuangxiaozi&count_private=true&show_icons=true&theme=ambient_gradient&hide=issues)](https://niuhuangxiaozi.github.io/) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niuhuangxiaozi&hide=html,assembly)](https://niuhuangxiaozi.github.io/)
+
 ### Hi there 👋
 
 - :mailbox_with_no_mail:Email:niuniuzi2023@gmail.com

@@ -1,6 +1,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Niuhuangxiaozi&count_private=true&show_icons=true&theme=ambient_gradient&hide=issues)](https://niuhuangxiaozi.github.io/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niuhuangxiaozi&hide=html,assembly&layout=compact&card_width=465px)](https://niuhuangxiaozi.github.io/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niuhuangxiaozi&hide=html,assembly,CSS,SCSS,JavaScript&layout=compact&card_width=465px)](https://niuhuangxiaozi.github.io/)
 
 ### Hi there 👋
 

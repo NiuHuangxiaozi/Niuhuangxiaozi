@@ -5,14 +5,15 @@
 
 - I'm 18 years old, and I live in 🏘️A510 space, CH.
 - I study computer science and technology in Jiuxiang River of Arts and Sciences.
-- I'm a little too addicted to ☕coffee, 🎻classic music, 🥞delicious food .
+- I'm a little too addicted to ☕coffee, 🎻classic music, 🥞delicious food, ⚽football and 📚history.
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
 - Making progress together with friends
-- 
+- Reflect on myself, and embrace, understand, and listen deeply to the one you love forever.
+  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Niuhuangxiaozi&count_private=true&show_icons=true&theme=ambient_gradient&hide=issues)](https://niuhuangxiaozi.github.io/)  [![](https://stats.justsong.cn/api/leetcode?username=Niuhuangxiaozi&cn_username=chi-chu-zai-lu-kou&card_width=300px)](https://niuhuangxiaozi.github.io/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niuhuangxiaozi&hide=html,assembly,CSS,SCSS,JavaScript&layout=compact&card_width=465px)](https://niuhuangxiaozi.github.io/)

@@ -13,8 +13,10 @@
 - Exercising 3 days a week
 - Making progress together with friends
 - Reflect on myself, and embrace, understand, and listen deeply to the one you love forever.
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Niuhuangxiaozi&count_private=true&show_icons=true&theme=ambient_gradient&hide=issues)](https://niuhuangxiaozi.github.io/)  [![](https://stats.justsong.cn/api/leetcode?username=Niuhuangxiaozi&cn_username=chi-chu-zai-lu-kou&card_width=300px)](https://niuhuangxiaozi.github.io/)
+
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=Niuhuangxiaozi&count_private=true&show_icons=true&theme=ambient_gradient"  alt=""/>
+<img width="40%" align="right" src="https://stats.justsong.cn/api/leetcode?username=Niuhuangxiaozi&cn_username=chi-chu-zai-lu-kou"  alt=""/>
+
 
 #### :computer: Programming languages and tools:
 <p>

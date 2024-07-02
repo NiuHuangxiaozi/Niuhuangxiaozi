@@ -3,15 +3,15 @@
 
 ### 🏌️‍♂️ a little about myself:
 
-- I'm 20 years old., and I live in Ceará, BR.
-- I study information systems in Faculdade de Juazeiro do Norte.
-- I'm a little too addicted to coffee.
+- I'm 18 years old, and I live in 🏘️A510 space, CH.
+- I study computer science and technology in Jiuxiang River of Arts and Sciences.
+- I'm a little too addicted to ☕coffee, 🎻classic music, 🥞delicious food .
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
-- Improving my CV with some education apart from university
+- Making progress together with friends
 - 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Niuhuangxiaozi&count_private=true&show_icons=true&theme=ambient_gradient&hide=issues)](https://niuhuangxiaozi.github.io/)  [![](https://stats.justsong.cn/api/leetcode?username=Niuhuangxiaozi&cn_username=chi-chu-zai-lu-kou&card_width=300px)](https://niuhuangxiaozi.github.io/)
 

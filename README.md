@@ -62,8 +62,10 @@
 
 <h align="right">
 
-##### :computer:✨ where you can find me ✨
-- :mailbox_with_no_mail: Email: Niuniuzi2023@gmail.com
+##### :computer:✨ Some poetic reflections on life ✨
+- :mailbox_with_no_mail: You may seem ordinary, but you are truly a limited edition in this world.
+- ❤️ The problems of your past are your business. The problems of your future are my privilege.
+- ☀️ I can be the light in the darkness. And run the sun in the summer rain
 - :books: Blog: <a href="https://niuhuangxiaozi.github.io/">Niu Creator's Blog</a>
 - 🐯 Bilibili: <a href="https://space.bilibili.com/691242122?spm_id_from=333.788.0.0">Niuhuangxiaozi</a>
 - 😊 MBTI: <a href="https://www.16personalities.com/ch/%E7%BB%93%E6%9E%9C/esfj-t/x/pivl1ebjs">ESFJ-T</a>

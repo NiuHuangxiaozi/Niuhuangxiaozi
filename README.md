@@ -15,8 +15,8 @@
 - Reflect on myself, and embrace, understand, and listen deeply to the one you love forever.
 
 <p>
-<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=Niuhuangxiaozi&count_private=true&show_icons=true&theme=ambient_gradient"  alt=""/>
-<img width="40%" align="right" src="https://stats.justsong.cn/api/leetcode?username=Niuhuangxiaozi&cn_username=chi-chu-zai-lu-kou"  alt=""/>
+<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=Niuhuangxiaozi&count_private=true&show_icons=true&theme=ambient_gradient"  alt=""/>
+<img width="48%" align="right" src="https://stats.justsong.cn/api/leetcode?username=Niuhuangxiaozi&cn_username=chi-chu-zai-lu-kou"  alt=""/>
 </p>
 
 ##### :computer: Programming languages and tools:

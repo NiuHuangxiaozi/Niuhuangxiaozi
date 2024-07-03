@@ -1,4 +1,4 @@
-<h1 align="center"> 🤩 hello, i'm a lonely dancer 🤩 </h1>
+<h1 align="center"> 🤩 hello, I'm a lonely dancer 🤩 </h1>
 <h3 align="center">🚀 brave devlover 🚀</h3>
 
 <p align="center"><br/>

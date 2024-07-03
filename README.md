@@ -15,15 +15,15 @@
 - Reflect on myself, and embrace, understand, and listen deeply to the one you love forever.
 
 <p>
-<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=Niuhuangxiaozi&count_private=true&show_icons=true&theme=ambient_gradient"  alt=""/>
-<img width="48%" align="right" src="https://stats.justsong.cn/api/leetcode?username=Niuhuangxiaozi&cn_username=chi-chu-zai-lu-kou"  alt=""/>
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=Niuhuangxiaozi&count_private=true&show_icons=true&theme=ambient_gradient"  alt=""/>
+<img width="40%" align="right" src="https://stats.justsong.cn/api/leetcode?username=Niuhuangxiaozi&cn_username=chi-chu-zai-lu-kou"  alt=""/>
 </p>
 
 ##### :computer: Programming languages and tools:
 
 
 <p>
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niuhuangxiaozi&hide=html,assembly,CSS,SCSS,JavaScript&layout=compact&card_width=555px"  alt=""/>
+  <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niuhuangxiaozi&hide=html,assembly,CSS,SCSS,JavaScript&layout=compact&card_width=555px"  alt=""/>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg"></code>

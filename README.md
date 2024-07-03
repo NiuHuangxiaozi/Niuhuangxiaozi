@@ -40,14 +40,14 @@
 <br />
 </p>
 
+
 <h1 align="center">
 ✨ where you can find me ✨
-
 - :mailbox_with_no_mail:Email:  Niuniuzi2023@gmail.com
 - :books:Blog:  [Niu Creator's Blog](https://niuhuangxiaozi.github.io/)
 - 🐯Bilibili:  [Niuhuangxiaozi](https://space.bilibili.com/691242122?spm_id_from=333.788.0.0)
 - 😊MBTI:  [ESFJ-T](https://www.16personalities.com/ch/%E7%BB%93%E6%9E%9C/esfj-t/x/pivl1ebjs)
-  </h1>
+</h1>
 
 
 <!--

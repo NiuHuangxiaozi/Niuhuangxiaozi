@@ -71,7 +71,6 @@
 - ❤️ The problems of your past are your business. The problems of your future are my privilege.
 - ☀️ I can be the light in the darkness. And run the sun in the summer rain.
 - 😿 You meet thousands of people and none of them really touch you. And then you meet that one person and your life is changed. Forever.
-- 🏃 Action speak louder than words.
 - 😭 Everything is the same, but you are not here, and I still am. In separation the one who goes away suffers less than the one who stays behind.
 </h>
 

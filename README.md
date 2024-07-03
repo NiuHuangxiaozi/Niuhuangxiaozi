@@ -57,6 +57,10 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 </p>
 
 
@@ -65,10 +69,10 @@
 ##### :computer:✨ Some poetic reflections on life ✨
 - :mailbox_with_no_mail: You may seem ordinary, but you are truly a limited edition in this world.
 - ❤️ The problems of your past are your business. The problems of your future are my privilege.
-- ☀️ I can be the light in the darkness. And run the sun in the summer rain
-- :books: Blog: <a href="https://niuhuangxiaozi.github.io/">Niu Creator's Blog</a>
-- 🐯 Bilibili: <a href="https://space.bilibili.com/691242122?spm_id_from=333.788.0.0">Niuhuangxiaozi</a>
-- 😊 MBTI: <a href="https://www.16personalities.com/ch/%E7%BB%93%E6%9E%9C/esfj-t/x/pivl1ebjs">ESFJ-T</a>
+- ☀️ I can be the light in the darkness. And run the sun in the summer rain.
+- 😿 You meet thousands of people and none of them really touch you. And then you meet that one person and your life is changed. Forever.
+- 🏃 Action speak louder than words.
+- 😭 Everything is the same, but you are not here, and I still am. In separation the one who goes away suffers less than the one who stays behind.
 </h>
 
 

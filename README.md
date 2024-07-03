@@ -3,7 +3,7 @@
 
 ##### 🏌️‍♂️ a little about myself:
 
-- I'm 18 years old, and I live in 🏘️A510 space, CH.
+- I'm 18 years old, and I live in 🏘️A510 space, CN.
 - I study computer science and technology in Jiuxiang River of Arts and Sciences.
 - I'm a little too addicted to ☕coffee, 🎻classic music, 🥞delicious food, ⚽football and 📚history.
 
@@ -15,16 +15,14 @@
 - Reflect on myself, and embrace, understand, and listen deeply to the one you love forever.
 
 <p>
-<img width="48%" align="left" src="https://github-readme-stats.vercel.app/api?username=Niuhuangxiaozi&count_private=true&show_icons=true&theme=ambient_gradient"  alt=""/>
-<img width="48%" align="right" src="https://stats.justsong.cn/api/leetcode?username=Niuhuangxiaozi&cn_username=chi-chu-zai-lu-kou"  alt=""/>
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Niuhuangxiaozi&count_private=true&show_icons=true&theme=ambient_gradient"  alt=""/>
+<img width="50%" align="left" src="https://stats.justsong.cn/api/leetcode?username=Niuhuangxiaozi&cn_username=chi-chu-zai-lu-kou"  alt=""/>
 </p>
 
-##### :computer: Programming languages and tools:
-
-
-<p>
-  <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niuhuangxiaozi&hide=html,assembly,CSS,SCSS,JavaScript&layout=compact&card_width=555px"  alt=""/>
+##### :computer: Programming tools:
 <br />
+<p>
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niuhuangxiaozi&hide=html,assembly,CSS,SCSS,JavaScript&layout=compact&card_width=450px"  alt=""/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
@@ -40,7 +38,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <br />
-  
 </p>
 
 <h1 align="center">
